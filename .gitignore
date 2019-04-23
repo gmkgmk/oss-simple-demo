@@ -1,0 +1,5 @@
+# dependencies
+/node_modules
+
+/server/RAM-Info.js
+/server/config.js
